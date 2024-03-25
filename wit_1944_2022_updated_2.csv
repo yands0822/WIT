@@ -1,4 +1,4 @@
-Year,Employer,Role,Count Male,Count Female,Count Total,Min Salary,Max Salary,Average Male Salary,Average Female Salary
+Year,Employer,Role,Count A,Count B,Count Total,Min Salary,Max Salary,Average A Salary,Average B Salary
 1946,Net System Inc (NSI),Computer Operator,461,1,462,55142.68,1206529.74,183022.59,124912.92
 1946,Net System Inc (NSI),Systems Analyst,143,2,145,61276.62,1326041.1,146559.86,100027.1
 1948,Cyber Digital Corp,Computer Operator,41,2,43,31191.83,1079673.1,143556.54,96900.66
